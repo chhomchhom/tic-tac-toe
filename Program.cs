@@ -1,7 +1,7 @@
 ﻿using System;
 
 using System.Threading;
- 
+
 
 namespace TIC_TAC_TOE
 
@@ -21,13 +21,13 @@ namespace TIC_TAC_TOE
 
         static int choice; //This holds the choice at which position user want to mark   
 
- 
+
 
         // The flag veriable checks who has won if it's value is 1 then some one has won the match if -1 then Match has Draw if 0 then match is still running  
 
         static int flag = 0;
 
- 
+
 
         static void Main(string[] args)
 
@@ -65,7 +65,7 @@ namespace TIC_TAC_TOE
 
                 choice = int.Parse(Console.ReadLine());//Taking users choice   
 
- 
+
 
                 // checking that position where user want to run is marked (with X or O) or not  
 
@@ -113,13 +113,13 @@ namespace TIC_TAC_TOE
 
             } while (flag != 1 && flag != -1);// This loof will be run until all cell of the grid is not marked with X and O or some player is not win  
 
- 
+
 
             Console.Clear();// clearing the console  
 
             Board();// getting filled board again  
 
- 
+
 
             if (flag == 1)// if flag value is 1 then some one has win or means who played marked last time which has win  
 
@@ -146,7 +146,7 @@ namespace TIC_TAC_TOE
         private static void Board()
 
         {
-
+            
             Console.WriteLine("     |     |      ");
 
             Console.WriteLine("  {0}  |  {1}  |  {2}", arr[1], arr[2], arr[3]);
@@ -167,7 +167,7 @@ namespace TIC_TAC_TOE
 
         }
 
- 
+
 
         //Checking that any player has won or not  
 
@@ -209,7 +209,7 @@ namespace TIC_TAC_TOE
 
             #endregion
 
- 
+
 
             #region vertical Winning Condtion
 
@@ -245,7 +245,7 @@ namespace TIC_TAC_TOE
 
             #endregion
 
- 
+
 
             #region Diagonal Winning Condition
 
@@ -267,7 +267,7 @@ namespace TIC_TAC_TOE
 
             #endregion
 
- 
+
 
             #region Checking For Draw
 
@@ -283,7 +283,7 @@ namespace TIC_TAC_TOE
 
             #endregion
 
- 
+
 
             else
 
@@ -297,4 +297,4 @@ namespace TIC_TAC_TOE
 
     }
 
-}  
+}
