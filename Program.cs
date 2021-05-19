@@ -3,11 +3,9 @@ using System.Threading;
 
 
 namespace TIC_TAC_TOE
-
 {
     class Program
     {
-
         //making array and   
         //by default I am providing 0-9 where no use of zero  
 
@@ -20,11 +18,9 @@ namespace TIC_TAC_TOE
         static int flag = 0;
 
         static void Main(string[] args)
-
         {
             do
             {
-
                 Console.Clear();// whenever loop will be again start then screen will be clear  
                 Console.WriteLine("Player1:X and Player2:O");
                 Console.WriteLine("\n");
