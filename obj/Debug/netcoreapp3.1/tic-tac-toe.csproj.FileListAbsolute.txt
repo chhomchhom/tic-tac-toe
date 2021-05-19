@@ -1,0 +1,13 @@
+/home/virack/Documents/source/repos/tic-tac-toe/bin/Debug/netcoreapp3.1/tic-tac-toe
+/home/virack/Documents/source/repos/tic-tac-toe/bin/Debug/netcoreapp3.1/tic-tac-toe.deps.json
+/home/virack/Documents/source/repos/tic-tac-toe/bin/Debug/netcoreapp3.1/tic-tac-toe.runtimeconfig.json
+/home/virack/Documents/source/repos/tic-tac-toe/bin/Debug/netcoreapp3.1/tic-tac-toe.runtimeconfig.dev.json
+/home/virack/Documents/source/repos/tic-tac-toe/bin/Debug/netcoreapp3.1/tic-tac-toe.dll
+/home/virack/Documents/source/repos/tic-tac-toe/bin/Debug/netcoreapp3.1/tic-tac-toe.pdb
+/home/virack/Documents/source/repos/tic-tac-toe/obj/Debug/netcoreapp3.1/tic-tac-toe.csprojAssemblyReference.cache
+/home/virack/Documents/source/repos/tic-tac-toe/obj/Debug/netcoreapp3.1/tic-tac-toe.AssemblyInfoInputs.cache
+/home/virack/Documents/source/repos/tic-tac-toe/obj/Debug/netcoreapp3.1/tic-tac-toe.AssemblyInfo.cs
+/home/virack/Documents/source/repos/tic-tac-toe/obj/Debug/netcoreapp3.1/tic-tac-toe.csproj.CoreCompileInputs.cache
+/home/virack/Documents/source/repos/tic-tac-toe/obj/Debug/netcoreapp3.1/tic-tac-toe.dll
+/home/virack/Documents/source/repos/tic-tac-toe/obj/Debug/netcoreapp3.1/tic-tac-toe.pdb
+/home/virack/Documents/source/repos/tic-tac-toe/obj/Debug/netcoreapp3.1/tic-tac-toe.genruntimeconfig.cache
